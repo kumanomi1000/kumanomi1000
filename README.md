@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Takeshi Bashomatsu</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumanomi1000&label=Profile%20views&color=0e75b6&style=flat" alt="kumanomi1000" /> </p>
+
+- 🔭 I’m not currently working.
+- 🌱 I’m not currently learning.
+- 👯 I’m not looking to collaborate.
+- 🤔 I’m not looking for help.
+- 💬 Ask me about ...
+- 📫 How to reach me: **takeshibashomatsu@gmail.com**
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
