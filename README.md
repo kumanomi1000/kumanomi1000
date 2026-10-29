@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m not currently learning.
 - 👯 I’m not looking to collaborate.
 - 🤔 I’m not looking for help.
-- 📫 How to reach me: **takeshibashomatsu@gmail.com**
+- 📫 How to reach me: **takeshibashomatsu@gmail.com** in Tokyo, Japan
 
 ### 日本語版Wikipedia
 
@@ -173,3 +173,9 @@ Here are some ideas to get you started:
     <td></td>
   </tr>
 </table>
+
+<div align="center">
+<img width="542" src="12bgp.png"><br>
+3次ベジェ曲線と直線によるイラストの例<br>
+（ChatGPTによる線画イラストをAUTOTRACEによりベクトル化）
+</div>
